@@ -1,7 +1,6 @@
-# MUNCH Dataset
+# The MUNCH (Metaphor Understanding Challenge) Dataset
 
-The MUNCH (Metaphor Understanding Challenge) dataset,
-for testing large language models' capabilities for understanding metaphors as cross-domain mappings.
+For testing large language models' capabilities for understanding metaphors as cross-domain mappings.
 
 Overview:
 - Input data for testing LLMs are in `tasks/`
